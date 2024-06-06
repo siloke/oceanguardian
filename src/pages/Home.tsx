@@ -1,4 +1,4 @@
-import { Box, Typography } from "@mui/joy";
+import { Box } from "@mui/joy";
 import background from '../assets/tartaruga.jpg'
 import Menu from "../components/Menu";
 
