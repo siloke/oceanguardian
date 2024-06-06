@@ -7,7 +7,6 @@ const Home = () => {
         <>
             <Box sx={{ backgroundImage: `url(${background})` }} width="100%" height="100vh">
                 <Menu />
-
             </Box>
         </>
     );
