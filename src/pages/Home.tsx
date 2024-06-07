@@ -1,4 +1,4 @@
-import { Box, Button, Grid, Typography } from "@mui/joy";
+import { Box, Button, Typography } from "@mui/joy";
 import background from '../assets/tartaruga.jpg'
 import Menu from "../components/Menu";
 import theme from "../theme";
@@ -30,7 +30,7 @@ const Home = () => {
 
                     <Button variant="solid"  style={{position: 'absolute', left: "40%", right: "40%", top: '45%'}}>Saiba mais</Button>
                 </Box>
-        </>
+         </>
     );
 }
 
