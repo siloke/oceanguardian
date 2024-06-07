@@ -31,6 +31,12 @@ const Menu = () => {
                             Blog
                         </ListItemButton>
                     </ListItem>
+                    <ListDivider />
+                    <ListItem role="none">
+                        <ListItemButton role="menuitem" component="a" href="/cadastro">
+                            Cadastro
+                        </ListItemButton>
+                    </ListItem>
                 </List>
             </Box >
         </>
