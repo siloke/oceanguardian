@@ -11,7 +11,6 @@ const Blog = () => {
             <Grid container spacing={4} maxWidth="1440px" margin="0 auto">
                 <Grid xs={4}>
                     <List>
-
                         <ListItemButton selected sx={{borderRadius: theme.vars.radius.sm, marginBottom: theme.vars.fontSize.sm}}>
                             <ListItem>Topico</ListItem>
                         </ListItemButton>                  
@@ -24,7 +23,6 @@ const Blog = () => {
                         <ListItemButton sx={{borderRadius: theme.vars.radius.sm, marginBottom: theme.vars.fontSize.sm}}>
                             <ListItem>Topico</ListItem>
                         </ListItemButton>
-                    
                     </List>
                 </Grid>
                 <Grid container spacing={8} xs={8}>
