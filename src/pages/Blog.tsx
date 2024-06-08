@@ -42,7 +42,7 @@ const Blog = () => {
                             <Box sx={{display: "flex", flexDirection: "column", width: "60%", gap: 3}}>
                                 <Typography level="h2">Conteudo Educativo</Typography>
                                 <Typography level="body-md" sx={{wordWrap: "break-word"}}>
-                                    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam omnis exercitationem, numquam non mollitia harum suscipit? Impedit numquam tempora quam perferendis incidunt culpa molestiae vero rerum! Mollitia amet rerum deleniti.
                                 </Typography>
                                 <Stack direction="row" spacing={1}>
                                     <Chip variant="outlined">Poluição</Chip>
@@ -67,7 +67,7 @@ const Blog = () => {
                             <Box sx={{display: "flex", flexDirection: "column", width: "60%", gap: 3}}>
                                 <Typography level="h2">Conteudo Educativo</Typography>
                                 <Typography level="body-md" sx={{wordWrap: "break-word"}}>
-                                    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum odit ullam perspiciatis! Officiis eius minima libero quae dolores facilis ad aut, alias vero in illo reprehenderit error quod, vitae voluptate.
                                 </Typography>
                                 <Stack direction="row" spacing={1}>
                                     <Chip variant="outlined">Poluição</Chip>
@@ -92,7 +92,7 @@ const Blog = () => {
                             <Box sx={{display: "flex", flexDirection: "column", width: "60%", gap: 3}}>
                                 <Typography level="h2">Conteudo Educativo</Typography>
                                 <Typography level="body-md" sx={{wordWrap: "break-word"}}>
-                                    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+                                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium, consequuntur? Temporibus soluta quae laboriosam illo? Aliquid eaque rerum unde excepturi tempora, quaerat, cumque laudantium totam sapiente ipsa neque, minus debitis.
                                 </Typography>
                                 <Stack direction="row" spacing={1}>
                                     <Chip variant="outlined">Poluição</Chip>

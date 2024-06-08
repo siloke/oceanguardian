@@ -21,12 +21,6 @@ const Menu = () => {
                     </ListItem>
                     <ListDivider />
                     <ListItem role="none">
-                        <ListItemButton role="menuitem" component="a" href="/rewards">
-                            Rewards
-                        </ListItemButton>
-                    </ListItem>
-                    <ListDivider />
-                    <ListItem role="none">
                         <ListItemButton role="menuitem" component="a" href="/blog">
                             Blog
                         </ListItemButton>
